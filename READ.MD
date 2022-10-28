@@ -1,2 +1,2 @@
 # Python initial exercices
-Some fundamental python examples:
+Some fundamental python examples.
